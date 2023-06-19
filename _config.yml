@@ -103,5 +103,5 @@ theme: land-scape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:sanuya/sanuya.github.io.git
+  repo: git@github.com:BeitaApp/BeitaApp.git
   branch: gh-pages
