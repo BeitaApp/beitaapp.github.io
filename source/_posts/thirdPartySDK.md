@@ -1,5 +1,5 @@
 ---
-title: 撒吖接入第三方SDK明细及权限说明
+title: 呗嗒语音接入第三方SDK明细及权限说明
 date: 2023/3/28 10:00:00
 categories:
 - 公告
@@ -35,16 +35,16 @@ categories:
 <body>
     <div>
         <p style="text-align:center; line-height:150%; font-size:14pt"><span
-                style="font-family:宋体; font-weight:bold">撒吖接入第三方SDK明细及权限说明</span></p>
+                style="font-family:宋体; font-weight:bold">呗嗒语音接入第三方SDK明细及权限说明</span></p>
         <p style="text-align:center; line-height:150%; font-size:11pt"><span
                 style="font-family:宋体; -aw-import:ignore">&#xa0;</span></p>
         <p style="text-indent:22pt; text-align:left; line-height:150%; font-size:11pt"><span
-                style="font-family:宋体">为了适配在不同手机设备上使用，保障撒吖App相关功能的实现与安全稳定的运行，撒吖接入了第三方提供的SDK。</span></p>
+                style="font-family:宋体">为了适配在不同手机设备上使用，保障呗嗒语音App相关功能的实现与安全稳定的运行，呗嗒语音接入了第三方提供的SDK。</span></p>
         <p style="text-indent:22pt; text-align:left; line-height:150%; font-size:11pt"><span
-                style="font-family:宋体">撒吖App所接入的SDK可能会调用您的设备权限、获取您的相关信息；撒吖App会对合作方获取信息的SDK进行严格的安全监测，以保障您的信息安全；同时尽可能及时更新并向您说明撒吖App所接入第三方SDK的最新情况。</span>
+                style="font-family:宋体">呗嗒语音App所接入的SDK可能会调用您的设备权限、获取您的相关信息；呗嗒语音App会对合作方获取信息的SDK进行严格的安全监测，以保障您的信息安全；同时尽可能及时更新并向您说明呗嗒语音App所接入第三方SDK的最新情况。</span>
         </p>
         <p style="text-indent:22pt; text-align:left; line-height:150%; font-size:11pt"><span
-                style="font-family:宋体">撒吖App接入的相关第三方SDK目录如下：</span></p>
+                style="font-family:宋体">呗嗒语音App接入的相关第三方SDK目录如下：</span></p>
         <p style="text-indent:22pt; text-align:left; line-height:150%; font-size:11pt"><span
                 style="font-family:宋体; font-weight:bold">1、EventBus SDK</span></p>
         <p style="text-indent:22pt; text-align:left; line-height:150%; font-size:11pt"><span
