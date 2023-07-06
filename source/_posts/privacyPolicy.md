@@ -1,6 +1,6 @@
 ---
 title: 呗嗒语音隐私政策
-date: 2023/3/28 10:00:00
+date: 2023/7/6 10:00:00
 categories:
 - 公告
 ---
@@ -389,7 +389,7 @@ categories:
         <p style="line-height:150%; font-size:11pt"><span
                 style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
             </span><span style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span
-                style="font-family:宋体">呗嗒语音开发者：季皓男</span></p>
+                style="font-family:宋体">呗嗒语音开发者：李旭翔</span></p>
     </div>
 </body>
 

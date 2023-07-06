@@ -1,6 +1,6 @@
 ---
 title: 呗嗒语音直播间服务协议
-date: 2023/3/28 10:00:00
+date: 2023/7/6 10:00:00
 categories:
 - 公告
 ---
@@ -172,7 +172,7 @@ categories:
         <p
             style="margin-top:14pt; margin-bottom:14pt; text-align:left; line-height:150%; widows:2; orphans:2; font-size:11pt">
             <span style="font-family:宋体">本协议的所有条款即构成您与</span><span
-                style="font-family:宋体; background-color:#fffefb">季皓男（下称</span><span
+                style="font-family:宋体; background-color:#fffefb">李旭翔（下称</span><span
                 style="font-family:宋体">“开发者”</span><span style="font-family:宋体; background-color:#fffefb">）</span><span
                 style="font-family:宋体">之间关于您使用呗嗒语音直播服务所达成的协议，用于规范双方业务行为，明确双方的权利和义务，保障双方合法权益。除非您已阅读并接受本协议的全部条款，否则您无权开通呗嗒语音直播间。</span><span
                 style="font-family:宋体; font-weight:bold">您勾选或点击“我已阅读并同意《呗嗒语音直播间服务协议》”按钮，</span><a

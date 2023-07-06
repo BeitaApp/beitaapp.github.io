@@ -1,6 +1,6 @@
 ---
 title: 呗嗒语音服务协议
-date: 2023/3/28 10:00:00
+date: 2023/7/6 10:00:00
 categories:
 - 公告
 ---
@@ -112,7 +112,7 @@ categories:
         <p class="NormalWeb" style="line-height:150%; widows:2; orphans:2; font-size:11pt"><span
                 style="font-family:宋体; font-weight:bold; background-color:#fffefb">1. 定义</span></p>
         <p class="NormalWeb" style="line-height:150%; widows:2; orphans:2; font-size:11pt"><span
-                style="font-family:宋体; background-color:#fffefb">“呗嗒语音”，是由独立开发者季皓男（下称</span><span
+                style="font-family:宋体; background-color:#fffefb">“呗嗒语音”，是由独立开发者李旭翔（下称</span><span
                 style="font-family:宋体">“开发者”</span><span
                 style="font-family:宋体; background-color:#fffefb">）制作的一款网络聊天软件，为您提供添加好友、发布信息、直播等各项功能和服务（以下简称“本服务”）。</span>
         </p>
@@ -349,7 +349,7 @@ categories:
         <p style="text-align:left; line-height:150%; widows:2; orphans:2; font-size:11pt"><span
                 style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
             </span><span style="font-family:宋体; -aw-import:spaces">&#xa0;</span><span
-                style="font-family:宋体">呗嗒语音开发者：季皓男</span></p>
+                style="font-family:宋体">呗嗒语音开发者：李旭翔</span></p>
     </div>
 </body>
 
