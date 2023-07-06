@@ -341,7 +341,7 @@ categories:
                 <span>联系呗嗒语音</span></li>
         </ol>
         <p style="line-height:150%; font-size:11pt"><span
-                style="font-family:宋体">11.1若您对本协议或呗嗒语音服务有意见或建议，或投诉、举报各类违法违规行为的，请通过【我的→反馈意见】或邮箱【bt_beita@163.com】将问题发送给呗嗒语音，也可以将问题寄送到如下地址：广东省广州市黄埔区水西路185号
+                style="font-family:宋体">11.1若您对本协议或呗嗒语音服务有意见或建议，或投诉、举报各类违法违规行为的，请通过【我的→反馈意见】或邮箱【bt_beita@163.com】将问题发送给呗嗒语音，也可以将问题寄送到如下地址：广东省广州市黄埔区大沙地西路311号
                 。呗嗒语音将尽快核查所涉问题，并在验证身份后及时处理，最长不超过15日或在法律法规规定期限内予以回复。</span></p>
         <p style="line-height:150%; font-size:11pt"><span
                 style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;
