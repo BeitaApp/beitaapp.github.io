@@ -18,13 +18,13 @@ categories:
 <div><p style="line-height:150%; font-size:11pt"><span
         style="font-family:宋体">发布时间：2023年</span><span
         style="font-family:宋体; -aw-import:spaces">&#xa0; </span><span
-        style="font-family:宋体">月</span><span style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0; </span><span
-        style="font-family:宋体">日</span></p>
+        style="font-family:宋体">7月</span><span style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0; </span><span
+        style="font-family:宋体">14日</span></p>
     <p style="line-height:150%; font-size:11pt"><span
             style="font-family:宋体">生效时间：2023年</span><span
             style="font-family:宋体; -aw-import:spaces">&#xa0; </span><span
-            style="font-family:宋体">月</span><span style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0; </span><span
-            style="font-family:宋体">日</span></p>
+            style="font-family:宋体">7月</span><span style="font-family:宋体; -aw-import:spaces">&#xa0;&#xa0; </span><span
+            style="font-family:宋体">14日</span></p>
     <h2 style="text-align:justify; line-height:150%; widows:2; orphans:2; font-size:11pt"><span
             style="font-weight:bold; -aw-import:ignore">&#xa0;</span></h2>
     <h2 style="text-align:center; line-height:150%; widows:2; orphans:2; font-size:14pt"><span
